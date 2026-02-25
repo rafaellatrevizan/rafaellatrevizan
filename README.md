@@ -9,23 +9,23 @@
 </p>
 
 <p align="left"> 
-  💻  Studying postgraduate studies in Full Stack Development.
+  💻  Postgraduate in Full Stack Development.
 </p>
 
 <p align="left"> 
-  🔄  Learning more about REST API.
+  ⚛️  Expanding my knowledge in React.
 </p>
 
 <p align="left"> 
-  ⚛️  Learning more about React.
+  🐍 Developing and maintaining Python modules.
 </p>
 
 <p align="left"> 
-  🐍 Learning Python.
+  🔎 Performing data extraction and processing using Regex.
 </p>
 
 <p align="left"> 
-  🔎 Learning about Regex.
+  🛠️ Refactoring code and applying Front-End interfaces.
 </p>
 
 <p align="left"> 
@@ -33,7 +33,7 @@
 </p>
 
 <p align="left"> 
-  💼  Looking for experiences.
+  💼  Seeking new experiences and professional growth.
 </p>
 
 ### Where to find me:
